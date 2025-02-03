@@ -16,7 +16,7 @@ export default function Home() {
           />
           <div className="flex flex-col gap-4 text-center sm:text-left">
             <h1 className="text-4xl sm:text-5xl font-bold">
-              Hi, I'm Armaan Butt 👋
+              Hi, I&apos;m Armaan Butt 👋
             </h1>
             <p className="text-lg text-gray-600 dark:text-gray-300">
               Software Engineer passionate about building AI applications
