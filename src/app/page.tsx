@@ -19,7 +19,7 @@ export default function Home() {
               Hi, I'm Armaan Butt 👋
             </h1>
             <p className="text-lg text-gray-600 dark:text-gray-300">
-              Software Engineer passionate about building impactful web applications
+              Software Engineer passionate about building AI applications
             </p>
           </div>
         </div>
