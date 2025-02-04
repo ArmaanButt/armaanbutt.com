@@ -209,7 +209,7 @@ export default function Home() {
               <h3 className="font-bold mb-2">Moodscape</h3>
               <p className="text-gray-600 dark:text-gray-300 text-sm mb-4">
                 An AI-powered mood-art matcher that pairs your emotional state
-                with Albert Bierstadt's romantic landscape paintings of the
+                with Albert Bierstadt&apos;s romantic landscape paintings of the
                 American West, using sentiment analysis
               </p>
               <div className="flex gap-4">
